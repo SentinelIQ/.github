@@ -1,6 +1,11 @@
+<div align="center">
+
 # SentinelIQ
 
-![SentinelIQ Logo](./logo.webp)
+<img src="./logo.webp" alt="SentinelIQ Logo" width="300" />
+
+</div>
+
 
 ## Enterprise Threat Intelligence & Response Platform
 

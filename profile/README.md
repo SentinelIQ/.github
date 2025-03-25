@@ -1,6 +1,6 @@
 # SentinelIQ
 
-![SentinelIQ Logo](./logo.png)
+![SentinelIQ Logo](./logo.webp)
 
 ## Enterprise Threat Intelligence & Response Platform
 
